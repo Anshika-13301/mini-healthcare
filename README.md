@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Healthcare Support Web App (AI-Enabled)
 
 ## Description
@@ -33,4 +34,3 @@ node server.js
 ### frontend
 cd frontend
 npm run start
-
