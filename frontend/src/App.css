@@ -1,0 +1,99 @@
+/* Background */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d9f0dc; /* light green */
+}
+
+/* Container to center the form */
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Form card */
+.form-card {
+  background-color: #ffffff;
+  border-top: 5px solid #28a745; /* green accent */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 30px;
+  width: 100%;
+  max-width: 600px;
+}
+
+/* Headings */
+.form-card h2 {
+  color: #19692c;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.form-card p {
+  color: #2e7d32;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Input rows for horizontal layout */
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+@media(min-width: 600px){
+  .row {
+    flex-direction: row;
+  }
+  .row input {
+    flex: 1;
+  }
+}
+
+/* Inputs and textarea */
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #28a745;
+  border-radius: 8px;
+  outline: none;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: #19692c;
+  box-shadow: 0 0 5px #28a745;
+}
+
+/* Button */
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #28a745;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #19692c;
+}
+
+/* Auto-reply box */
+.reply-box {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #e6f4ea;
+  border-left: 5px solid #28a745;
+  border-radius: 8px;
+  color: #19692c;
+}
