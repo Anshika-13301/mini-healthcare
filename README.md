@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mini Healthcare Support Web App (AI-Enabled)
 
 ## Description
@@ -28,6 +28,14 @@ mini-healthcare/
 ```bash
 cd backend
 node server.js
+```
+<br>
+
+---
+
+### output    
+
+<img src = "https://drive.google.com/uc?export=download&id=10wmRkpIQ-nU2_us3r4Zpf85wBA8Y_CGI" height=50% width=50%>
 
 
 
