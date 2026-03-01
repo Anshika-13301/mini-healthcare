@@ -4,6 +4,8 @@
 ## Description
 This project is a full-stack AI-enabled healthcare support web application. NGOs can collect patient and volunteer requests efficiently, with automated responses for faster handling.
 
+## live demo https://frontend-7ugq.onrender.com/
+
 ## Tech Stack
 - Frontend: React.js (used css)
 - Backend: Node.js, Express
@@ -33,7 +35,7 @@ node server.js
 
 ---
 
-### output    
+###  screenshots   
 
 <img src = "https://drive.google.com/uc?export=download&id=10wmRkpIQ-nU2_us3r4Zpf85wBA8Y_CGI">
 <img src = "https://drive.google.com/uc?export=download&id=1assYquo1xoy5HM5juCgf4P0mtkk-xODJ">
