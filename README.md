@@ -35,9 +35,8 @@ node server.js
 
 ### output    
 
-<img src = "https://drive.google.com/uc?export=download&id=10wmRkpIQ-nU2_us3r4Zpf85wBA8Y_CGI" height=50% width=50%>
-
-
+<img src = "https://drive.google.com/uc?export=download&id=10wmRkpIQ-nU2_us3r4Zpf85wBA8Y_CGI">
+<img src = "https://drive.google.com/uc?export=download&id=1assYquo1xoy5HM5juCgf4P0mtkk-xODJ">
 
 ### frontend
 cd frontend
